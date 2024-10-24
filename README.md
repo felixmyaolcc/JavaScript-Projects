@@ -3,7 +3,7 @@ A collection of JavaScript coding projects created during my course, showcasing 
 
 ## Contents
 
-- Project 1: Description of the first project
+- Project 1: Description of the first project - This is my Pizza Project
 - Project 2: Summary of the second project
 - Project 3: Overview of the third project
 
